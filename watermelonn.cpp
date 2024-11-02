@@ -2,7 +2,7 @@
 **      Bismillahir Rahmanir Rahim
 **              ALLAHU AKBAR
 **
-**     Author: Iftekhar Ahamed Siddiquee
+**     Author: Md. Tarikul Hasan Dipu
 **     Bangladesh University of Business and Technology,
 **     Dept. of CSE.
 ***/
